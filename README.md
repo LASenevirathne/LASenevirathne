@@ -2,6 +2,7 @@
 <h3 align="center">A Computer Engineering Undergraduate from Faculty of Engineering,UOP</h3>
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 - 📫 How to reach me: l.a.senevirathne2002@gmail.com
+
 ---
 
 <h3 align="center">My Statistics:</h3>
